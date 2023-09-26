@@ -36,3 +36,22 @@ I am a Sr Engineering Tech from the big state of Texas <img src="https://media.g
 -  Spotfire
 -  Anconda Navigator
 -  Snowflake
+
+---
+
+### Project Overview :
+#### For DSC680:
+-  GTZAN - Music Genre Classification using KNN Model & K-Means Clustering
+-  Texas Crop Analysis using chosen regressors like Random Forest & Decision Trees
+-  Oil, Gas, Water & pressure analysis by formation zones using PVT Correlatiosn & Neural Networks
+#### Prior Projects:
+- Bullying in the Workplace displaying cause & effects of bullying in the workplace
+- Gender Pay Gap Analysis showing the difference between the PayScale and Job Titles
+- CDF and Analytical Ditribution for Data Science Salaries
+- Data presentation & Visualizations on Airline Accidents & Fatalities
+- Predicting Almond Yield Time Series Analysis with an ARIMA Model
+- World Happiness Report Analysis between countries
+- Building a CNN Image Classifier
+#### Completed Work Projects:
+- Coordinate Map PowerBI Visualization of companies wells, and all header information used for reporting with built-in slicers using SQL queries connecting through Snowflake
+- Audit Allocated Production PowerBI Visualization displaying allocated production for oil, gas, water, & pressures with built-in slicers using SQL queries connecting through Snowflake
