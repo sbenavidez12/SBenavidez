@@ -1,11 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Yl5ntksVJsnhv1yyx0/giphy.gif" width="100"/>
-</div>
-
 <h1 align="center">
  Hey Y'all!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Yl5ntksVJsnhv1yyx0/giphy.gif" width="100"/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
@@ -40,11 +40,11 @@ I am a Sr Engineering Tech from the big state of Texas <img src="https://media.g
 ---
 
 ### Project Overview :
-#### For DSC680:
+#### Current Data Science Projects:
 -  GTZAN - Music Genre Classification using KNN Model & K-Means Clustering
 -  Texas Crop Analysis using chosen regressors like Random Forest & Decision Trees
 -  Oil, Gas, Water & pressure analysis by formation zones using PVT Correlatiosn & Neural Networks
-#### Prior Projects:
+#### Prior Data Science Projects:
 - Bullying in the Workplace displaying cause & effects of bullying in the workplace
 - Gender Pay Gap Analysis showing the difference between the PayScale and Job Titles
 - CDF and Analytical Ditribution for Data Science Salaries
