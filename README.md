@@ -24,34 +24,33 @@ I am a Sr Engineering Tech from the big state of Texas <img src="https://media.g
 ---
 
 ### Languages and Tools :
--  Python
--  R
--  RStudio
--  MySQL
--  DBeaver
--  Visual Studio
--  PyCharm
--  Jupyter Notebook
--  Power BI
--  Spotfire
--  Anconda Navigator
--  Snowflake
+ ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000000?logo=dbeaver&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power%20bi&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-025CCE?logo=snowflake&logoColor=white)
+![Spotfire](https://img.shields.io/badge/-Spotfire-E97627?logo=tibco%20spotfire&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual%20studio&logoColor=white)
+
 
 ---
 
 ### Project Overview :
-#### Current Data Science Projects:
+#### Data Science Projects:
 -  GTZAN - Music Genre Classification using KNN Model & K-Means Clustering
--  Texas Crop Analysis using chosen regressors like Random Forest & Decision Trees
--  Oil, Gas, Water & pressure analysis by formation zones using PVT Correlatiosn & Neural Networks
-#### Prior Data Science Projects:
-- Bullying in the Workplace displaying cause & effects of bullying in the workplace
-- Gender Pay Gap Analysis showing the difference between the PayScale and Job Titles
-- CDF and Analytical Ditribution for Data Science Salaries
-- Data presentation & Visualizations on Airline Accidents & Fatalities
-- Predicting Almond Yield Time Series Analysis with an ARIMA Model
-- World Happiness Report Analysis between countries
-- Building a CNN Image Classifier
+-  Texas Pecan Crop Analysis - using Random Forest & Decision Trees
+-  Bullying in the Workplace - displaying cause & effects of bullying in the workplace
+-  Gender Pay Gap Analysis - difference between the PayScale and Job Titles
+-  CDF and Analytical Ditribution for Data Science Salaries
+-  Data presentation & Visualizations on Airline Accidents & Fatalities
+-  Predicting Almond Yield - Time Series Analysis with an ARIMA Model
+-  World Happiness Report Analysis between countries
+-  Building a CNN Image Classifier
 #### Completed Work Projects:
 - Coordinate Map PowerBI Visualization of companies wells, and all header information used for reporting with built-in slicers using SQL queries connecting through Snowflake
 - Audit Allocated Production PowerBI Visualization displaying allocated production for oil, gas, water, & pressures with built-in slicers using SQL queries connecting through Snowflake
