@@ -46,11 +46,12 @@ I am a Sr Engineering Tech from the big state of Texas <img src="https://media.g
 -  Texas Pecan Crop Analysis - using Random Forest & Decision Trees
 -  Bullying in the Workplace - displaying cause & effects of bullying in the workplace
 -  Gender Pay Gap Analysis - difference between the PayScale and Job Titles
--  CDF and Analytical Ditribution for Data Science Salaries
+-  CDF and Analytical Distribution for Data Science Salaries
 -  Data presentation & Visualizations on Airline Accidents & Fatalities
 -  Predicting Almond Yield - Time Series Analysis with an ARIMA Model
 -  World Happiness Report Analysis between countries
 -  Building a CNN Image Classifier
+-  PCA & Variance Threshold
 #### Completed Work Projects:
 - Coordinate Map PowerBI Visualization of companies wells, and all header information used for reporting with built-in slicers using SQL queries connecting through Snowflake
 - Audit Allocated Production PowerBI Visualization displaying allocated production for oil, gas, water, & pressures with built-in slicers using SQL queries connecting through Snowflake
