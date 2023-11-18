@@ -57,5 +57,10 @@ I am a Sr Engineering Tech from the big state of Texas <img src="https://media.g
 - Audit Allocated Production PowerBI Visualization displaying allocated production for oil, gas, water, & pressures with built-in slicers using SQL queries connecting through Snowflake
 
 ---
+### Certifications :
+![image](https://github.com/sbenavidez12/sbenavidez12/assets/112772624/8a7a5ba2-a408-4f28-9a6d-67054cc25e4e)
+
+
+---
 [Download My Resume](https://github.com/sbenavidez12/sbenavidez12/blob/9c7258371e26d716da4ad2cb3b1f1f94184f6aff/Projects/Resume/Stephanie%20Benavidez%20Resume%202023.pdf)
 
