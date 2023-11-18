@@ -62,5 +62,4 @@ I am a Sr Engineering Tech from the big state of Texas <img src="https://media.g
 
 
 ---
-[Download My Resume](https://github.com/sbenavidez12/sbenavidez12/blob/9c7258371e26d716da4ad2cb3b1f1f94184f6aff/Projects/Resume/Stephanie%20Benavidez%20Resume%202023.pdf)
-
+[Download My Resume](https://github.com/sbenavidez12/sbenavidez12/blob/be0d755df527f1fde4c44035e4361db0bb881473/Projects/Resume/Stephanie%20Benavidez%20Resume%202023%20v2.pdf)
