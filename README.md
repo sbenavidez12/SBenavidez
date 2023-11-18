@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Yl5ntksVJsnhv1yyx0/giphy.gif" width="100"/>
+<div align="center">
+ <img src="https://media.giphy.com/media/iQAUksA8UQiYYL14Ee/giphy.gif" width="100"/>
 </div>
-
+ 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
