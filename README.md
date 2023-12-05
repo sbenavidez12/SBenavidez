@@ -18,13 +18,13 @@
 I am a Sr Engineering Tech from the big state of Texas <img src="https://media.giphy.com/media/do0d1xs6iiMSWYMSsC/giphy.gif" width="30">!
 
 - 🦸‍♀️ Working Towards a Data Engineer or Data Scientist within current company
-- 📚 In final semester in Data Science Program  for Master's Degree
+- 🎓 Just received my Master's of Science in Data Science 🎓
 - Single mom of three beautiful children, who are also in college 💜!
 
 ---
 
 ### Languages and Tools :
- ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-000000?logo=dbeaver&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
