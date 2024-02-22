@@ -15,9 +15,9 @@
 
 ### About Me :
 
-I am a Sr Engineering Tech from the big state of Texas <img src="https://media.giphy.com/media/do0d1xs6iiMSWYMSsC/giphy.gif" width="30">!
+I am a Data Engineer from the big state of Texas <img src="https://media.giphy.com/media/do0d1xs6iiMSWYMSsC/giphy.gif" width="30">!
 
-- 🦸‍♀️ Working Towards a Data Engineer or Data Scientist within current company
+- 🦸‍♀️ Working Towards a Data Scientist within current company
 - 🎓 Just received my Master's of Science in Data Science 🎓
 - Single mom of three beautiful children, who are also in college 💜!
 
