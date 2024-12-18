@@ -55,6 +55,7 @@ I am a Data Engineer from the big state of Texas <img src="https://media.giphy.c
 #### Completed Work Projects:
 - Coordinate Map PowerBI Visualization of companies wells, and all header information used for reporting with built-in slicers using SQL queries connecting through Snowflake
 - Audit Allocated Production PowerBI Visualization displaying allocated production for oil, gas, water, & pressures with built-in slicers using SQL queries connecting through Snowflake
+- Geo Star Steer Spotfire Dashboard with Completions, Drilling, Production, and Geology Data using complex queries connecting through Snowflake
 
 ---
 ### Certifications :
@@ -62,4 +63,4 @@ I am a Data Engineer from the big state of Texas <img src="https://media.giphy.c
 
 
 ---
-[Download My Resume](https://github.com/sbenavidez12/sbenavidez12/blob/be0d755df527f1fde4c44035e4361db0bb881473/Projects/Resume/Stephanie%20Benavidez%20Resume%202023%20v2.pdf)
+[Download My Resume](https://github.com/sbenavidez12/sbenavidez12/blob/f86d11daf53de343d7965bada51295aecb130f1b/Projects/Resume/Stephanie%20Benavidez%20Resume%202024%20(Data%20Engineer)%20v2.pdf)
