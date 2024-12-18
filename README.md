@@ -55,7 +55,7 @@ I am a Data Engineer from the big state of Texas <img src="https://media.giphy.c
 #### Completed Work Projects:
 - Coordinate Map PowerBI Visualization of companies wells, and all header information used for reporting with built-in slicers using SQL queries connecting through Snowflake
 - Audit Allocated Production PowerBI Visualization displaying allocated production for oil, gas, water, & pressures with built-in slicers using SQL queries connecting through Snowflake
-- Geo Star Steer Spotfire Dashboard with Completions, Drilling, Production, and Geology Data using complex queries connecting through Snowflake
+- Geo Star Steer Spotfire Dashboard with Completions, Drilling, Production, and Geology Data using complex  SQL queries connecting through Snowflake
 
 ---
 ### Certifications :
